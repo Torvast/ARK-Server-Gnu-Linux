@@ -1,0 +1,2 @@
+ulimit -n 100000
+./ShooterGame/Binaries/Linux/ShooterGameServer MAP_NAME_YOU_WANT?listen?SessionName=NAME_OF_YOUR_SERVER_ARK?ServerAdminPassword=ADMIN_PASSWORD_ARK_INGAME?PreventOfflinePvP=true?PreventOfflinePvPInterval=900?PvPDinoDecay=true?PvPStructureDecay=true?MaxPlayers=40 -server -log

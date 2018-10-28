@@ -5,7 +5,7 @@ You can find here some short part of code i use on my own public server ARK.
 I use this one to do all things ;) :** <br>
 sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get dist-upgrade -y && sudo apt autoremove -y --fix-missing && sudo apt-get clean -y
 
-**You can support my work directly either regularly or through one time contributions, you can do it at :**<br>
+**You can support my work directly either regularly or through one time contributions, you can do it at : https://support-me.t-core.fr/ :**<br>
 [My Tipeee](https://www.tipeee.com/torvast)<br>
 [My Liberapay](https://liberapay.com/Torvast/donate)<br>
 [My Paypal.me](https://www.paypal.me/Torvast) (or at my paypal email : michael@t-core.fr)<br>

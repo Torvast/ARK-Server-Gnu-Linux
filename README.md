@@ -7,6 +7,7 @@ sudo apt-get update && sudo apt-get upgrade -y && sudo apt-get dist-upgrade -y &
 
 **You can support my work directly either regularly or through one time contributions, you can do it at : https://support-me.t-core.fr/ :**<br>
 [My Tipeee](https://www.tipeee.com/torvast)<br>
+[My Patreon](https://www.patreon.com/torvast)<br>
 [My Liberapay](https://liberapay.com/Torvast/donate)<br>
 [My Paypal.me](https://www.paypal.me/Torvast) (or at my paypal email : michael@t-core.fr)<br>
 [My Amazon Wishlist (US)](https://amzn.to/2roSVwZ)<br>
